@@ -1,0 +1,15 @@
+/* public/fonts.css */
+@font-face {
+    font-family: 'Mikado';
+    src: url('/fonts/Mikado-Regular.woff2') format('woff2'),
+         url('/fonts/Mikado-Regular.woff') format('woff'),
+         url('/fonts/Mikado-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Apply the Mikado font to H1 elements as a demo */
+  h1 {
+    font-family: 'Mikado', sans-serif;
+  }
+  
