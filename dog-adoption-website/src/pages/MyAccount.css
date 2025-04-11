@@ -1,0 +1,35 @@
+.my-facebook-btn {
+    background-color: #1877f2 !important;
+    color: #fff !important;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    display: inline-block;
+    cursor: pointer;
+    border: none !important;
+  }
+  
+  .my-facebook-btn:hover,
+  .my-facebook-btn:focus {
+    background-color: #166fe5 !important;
+    color: #fff !important;
+    border: none !important;
+  }
+  
+
+  .manual-login-btn {
+    background-color: #153e04 !important;
+    border-color: #153e04 !important;
+    color: #fff !important;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .manual-login-btn:hover,
+  .manual-login-btn:focus {
+    background-color: #0e2b02 !important;
+    border-color: #0e2b02 !important;
+    color: #fff !important;
+  }
