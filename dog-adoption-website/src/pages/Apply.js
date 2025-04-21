@@ -2,6 +2,8 @@
 import React from 'react';
 import { Container, Row, Col, Form, Button } from 'react-bootstrap';
 import './Apply.css';
+import Symbol from "../assets/Symbol.png";
+
 
 
 function Apply() {
@@ -16,6 +18,11 @@ function Apply() {
             <li>Proper environment for a pet</li>
           </ul>
           <p>Please complete the application to help us understand your experience and preferences.</p>
+          <img
+              src={Symbol}
+              alt="Adoption symbol"
+              className="adoption-symbol"
+            />
         </Col>
         <Col md={6}>
           <h2>Application Form</h2>
