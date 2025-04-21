@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project3/static/css/main.1c4f21a2.css",
+    "main.js": "/Project3/static/js/main.b9529eb1.js",
+    "static/media/dog2.jpg": "/Project3/static/media/dog2.0483737bd99b04a87665.jpg",
+    "static/media/hero-dogs.jpg": "/Project3/static/media/hero-dogs.8c3cfb796efa6a837c61.jpg",
+    "static/media/dog1.jpg": "/Project3/static/media/dog1.37d76528960f578966dc.jpg",
+    "static/media/about-dog.jpg": "/Project3/static/media/about-dog.eb341ae4b2fa227fa1a5.jpg",
+    "static/media/dog3.jpg": "/Project3/static/media/dog3.3a8acbb38f52b9ed7c4f.jpg",
+    "static/media/dog5.jpg": "/Project3/static/media/dog5.196fae7b46c486bfeda2.jpg",
+    "static/media/dog6.jpg": "/Project3/static/media/dog6.29eaf4459d4dbaa18645.jpg",
+    "static/media/dog4.jpg": "/Project3/static/media/dog4.727e9e6cb166cc144c50.jpg",
+    "static/media/Symbol.png": "/Project3/static/media/Symbol.aa1888c7f43fca4bdab4.png",
+    "static/media/Logo.png": "/Project3/static/media/Logo.ae60988d2bdf280fa755.png",
+    "index.html": "/Project3/index.html",
+    "main.1c4f21a2.css.map": "/Project3/static/css/main.1c4f21a2.css.map",
+    "main.b9529eb1.js.map": "/Project3/static/js/main.b9529eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4f21a2.css",
+    "static/js/main.b9529eb1.js"
+  ]
+}
